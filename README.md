@@ -1,2 +1,2 @@
-# hello-world
-just for me to exercise
+# Blog
+This page for show my blog
